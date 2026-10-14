@@ -1,0 +1,4 @@
+# 自己加同义词，一行一个，格式：中文 = 代码里可能出现的写法, 用逗号隔开
+# 例如：
+# 会员 = vip, member, is_vip, level
+# 优惠券 = coupon, discount, promo
